@@ -1,7 +1,9 @@
-venv/
-__pycache__/
-*.pkl
-imdb_dataset.csv
-youtube_data.db
-.env
-graphs/
+backend/venv/
+backend/__pycache__/
+backend/*.pkl
+backend/imdb_dataset.csv
+backend/youtube_data.db
+backend/.env
+backend/graphs/
+frontend/node_modules/
+frontend/.next/
