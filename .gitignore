@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pkl
+imdb_dataset.csv
+youtube_data.db
+.env
+graphs/
